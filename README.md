@@ -10,7 +10,7 @@ I try my best to do this OneKey install ISO to make some change here.
 The following thing is the change I am doing:<br/>
 1. Change the backgroup splash picture.<br/>
 2. Set default strong password for the root and Fine_Fan user.<br/>
-3. PermitRootLogint No and change the ssh port to 13290<br/><br/>
+3. PermitRootLogint No and change the ssh port to 13290<br/>
 4. Disabled the selinux<br/>
 5. Add some virt drivers<br/>
 
